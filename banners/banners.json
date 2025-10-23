@@ -1,0 +1,16 @@
+{
+  "banners": [
+    {
+      "name": "banner1",
+      "url": "https://raw.githubusercontent.com/MubarakOnGit/eazymeals-app-assets/main/banners/banner1.png"
+    },
+    {
+      "name": "banner2",
+      "url": "https://raw.githubusercontent.com/MubarakOnGit/eazymeals-app-assets/main/banners/banner2.png"
+    },
+    {
+      "name": "banner3",
+      "url": "https://raw.githubusercontent.com/MubarakOnGit/eazymeals-app-assets/main/banners/banner3.png"
+    }
+  ]
+}

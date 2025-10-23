@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meal Image Upload</title>
+</head>
+<body>
+    <h1>Upload Meal Image</h1>
+    <form id="uploadForm">
+        <label for="date">Date (YYYY-MM-DD):</label>
+        <input type="text" id="date" placeholder="2025-04-27" required><br>
+
+        <label for="meal">Meal Type:</label>
+        <select id="meal" required>
+            <option value="lunch">Lunch</option>
+            <option value="dinner">Dinner</option>
+        </select><br>
+
+        <label for="image">Upload Image:</label>
+        <input type="file" id="image" accept="image/*" required><br><br>
+
+        <button type="submit">Upload</button>
+    </form>
+
+    <div id="successMessage" style="display:none;">
+        <p>Image uploaded successfully!</p>
+    </div>
+
+    <div id="mealImages">
+        <h2>Uploaded Meals</h2>
+        <div id="lunchSection">
+            <h3>Lunch</h3>
+            <div id="lunchImages"></div>
+        </div>
+        <div id="dinnerSection">
+            <h3>Dinner</h3>
+            <div id="dinnerImages"></div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            
+            // Get the values from the form
+            const date = document.getElementById('date').value;
+            const meal = document.getElementById('meal').value;
+            const image = document.getElementById('image').files[0];
+            
+            // Validate the date format and meal selection
+            if (!image || !date || !meal) {
+                alert('Please fill in all fields.');
+                return;
+            }
+            
+            // Create the image URL (GitHub Pages)
+            const fileName = `${date}-${meal}.jpg`;  // Or `.png`
+            const imageUrl = `https://yourusername.github.io/your-repo/images/${fileName}`;
+
+            // Upload the image to GitHub repository (or external service)
+            // NOTE: GitHub Pages doesn't allow direct image uploads via HTML forms
+            // So you need an external solution to upload the file (e.g., Firebase, S3, or manual upload)
+
+            // After uploading, show the image in the corresponding section
+            displayImage(meal, imageUrl);
+            
+            // Show success message
+            document.getElementById('successMessage').style.display = 'block';
+        });
+
+        function displayImage(meal, imageUrl) {
+            const mealSection = meal === 'lunch' ? 'lunchImages' : 'dinnerImages';
+            const mealSectionDiv = document.getElementById(mealSection);
+
+            // Create an image element and append it to the meal section
+            const imgElement = document.createElement('img');
+            imgElement.src = imageUrl;
+            imgElement.alt = `Meal image for ${meal}`;
+            imgElement.style.width = '200px';
+            imgElement.style.margin = '10px';
+            mealSectionDiv.appendChild(imgElement);
+        }
+    </script>
+</body>
+</html>

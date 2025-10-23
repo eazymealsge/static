@@ -1,0 +1,19 @@
+{
+  "onboarding_screens": [
+    {
+      "title": "Welcome to EazyMeals",
+      "description": "Savor delicious meals delivered straight to your door.",
+      "image_url": "https://images.pexels.com/photos/8617361/pexels-photo-8617361.jpeg"
+    },
+    {
+      "title": "Curate Your Menu",
+      "description": "Explore our diverse menu and pick your favorites.",
+      "image_url": "https://images.pexels.com/photos/14831547/pexels-photo-14831547.jpeg"
+    },
+    {
+      "title": "Swift Delivery",
+      "description": "Experience fast, reliable delivery every time.",
+      "image_url": "https://images.pexels.com/photos/5695618/pexels-photo-5695618.jpeg"
+    }
+  ]
+}

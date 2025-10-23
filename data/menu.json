@@ -1,0 +1,3117 @@
+{
+  "menu": [
+    {
+      "date": "02/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "White Rice with Dal and Chicken Fry (2pcs)",
+      "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
+      "Added": "done"
+    },
+    {
+      "date": "02/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Kadai Veg with Chapathi",
+      "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
+      "Added": "done"
+    },
+    {
+      "date": "02/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chennai Egg Biryani",
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
+    },
+    {
+      "date": "02/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Noodles",
+      "image": "https://i0.wp.com/www.happyandharried.com/wp-content/uploads/2017/06/SPICY-SCHEZWAN-CHICKEN-NOODLES-HAPPYHARRIED.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "02/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Green Peas Kurma",
+      "image": "https://i0.wp.com/www.sharmiskitchen.com/wp-content/uploads/2018/04/Peas-Pulao1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "02/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Palak with Poratta",
+      "image": "https://simpleindianmeals.com/wp-content/uploads/2023/02/Palak-Paratha-500x500.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "03/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Mint Onion Pulao with Malai Chicken",
+      "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
+      "Added": "done"
+    },
+    {
+      "date": "03/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Bedmi Poori with Bhaji",
+      "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c",
+      "Added": "done"
+    },
+    {
+      "date": "03/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chennai Dum Biryani",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "03/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Beef Curry with Chappathi",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "03/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani with Raita and Salan",
+      "image": "https://thumbs.dreamstime.com/b/indian-veg-biryani-pulav-vegetable-biriyani-plate-raita-aromatic-rice-dish-made-basmati-mixed-veggies-herbs-spices-342336967.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "03/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Plain Dosa with Sambar and Chutney",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/05/mysore-masala-dosa.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "04/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Sabji Pulao with Tawa Chicken",
+      "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c",
+      "Added": "done"
+    },
+    {
+      "date": "04/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Dumka Chicken with Poratta",
+      "image": "https://images.unsplash.com/photo-1620110260409-7b72b6c88fc3",
+      "Added": "done"
+    },
+    {
+      "date": "04/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "White Rice, Sambar, Chana Thoran & Chicken Fry (2pcs)",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "04/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chettinad Chicken with Poratta",
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2",
+      "Added": "done"
+    },
+    {
+      "date": "04/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Veg Curry",
+      "image": "https://cakeworkorange.com/wp-content/uploads/2020/09/IP-kurma-scaled.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "04/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chana Masala with Poratta",
+      "image": "https://ministryofcurry.com/wp-content/uploads/2019/09/Chana-Masala-Photo-1-850x1275.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "05/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Lakhnawi Chicken Biryani with Raitha and Salan",
+      "image": "https://images.unsplash.com/photo-1620110260409-7b72b6c88fc3",
+      "Added": "done"
+    },
+    {
+      "date": "05/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Mughlai Chicken with Chapathi",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "Added": "done"
+    },
+    {
+      "date": "05/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Mandi",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "05/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Neelagiri Kurma with Chappathi",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "05/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Moru Curry, Upperi, and Gobi 65",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirNP-V4lCl30vIlyNvll8umSQPGatXSoR0KYDbCuWjYU-qxEcqyUY857rUQ7Aw6mNeytMx3ciZJypINEqtqigq7dbBHIlx7MsU1SrYdZbzXd4jnPsKVk583fFfAx6hanFAu-d0MTuvjBXv/s1600/Moru+Kachiyathu_Palaharam+(7+of+7).jpg",
+      "Added": "done"
+    },
+    {
+      "date": "05/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Kadai Veg with Chappathi",
+      "image": "https://www.yummyoyummy.com/wp-content/uploads/2015/08/Kadai-vegetables12.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "06/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Schezwan Chicken Fried Rice with Ketchup",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "Added": "done"
+    },
+    {
+      "date": "06/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Butter Masala with Poratta",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+      "Added": "done"
+    },
+    {
+      "date": "06/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Majboos",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "06/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "3pcs Chappathi with Chicken Istoo",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
+    },
+    {
+      "date": "06/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Tomato Rice with Sambar",
+      "image": "https://bestrecipesofindia.com/wp-content/uploads/2024/04/IMG_0935.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "06/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Stew with Chappathi",
+      "image": "https://bestrecipesofindia.com/wp-content/uploads/2024/04/IMG_0935.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "07/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Curd Rice with Onion Pakoda and Pickle",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+      "Added": "done"
+    },
+    {
+      "date": "07/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kaalimirchi with Chappathi",
+      "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
+      "Added": "done"
+    },
+    {
+      "date": "07/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Curry",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
+    },
+    {
+      "date": "07/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Mysore Masala Dosa",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/05/mysore-masala-dosa-1a.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "07/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Rasam, Upperi, and Gobi Fry",
+      "image": "https://revi.b-cdn.net/wp-content/uploads/2016/06/tomato-rasam-vert5.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "07/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Mysore Masala Dosa with Sambar and Chutney",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/05/mysore-masala-dosa-1a.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "08/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Jeera Pulao with Chicken Korma",
+      "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
+      "Added": "done"
+    },
+    {
+      "date": "08/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Schezwan Noodles with Ketchup",
+      "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
+      "Added": "done"
+    },
+    {
+      "date": "08/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Meals with Moru Curry, Cabbage Upperi & Fish Fry",
+      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d",
+      "Added": "done"
+    },
+    {
+      "date": "08/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Varattarachathu with Poratta",
+      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845",
+      "Added": "done"
+    },
+    {
+      "date": "08/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani",
+      "image": "https://madhurasrecipe.com/wp-content/uploads/2023/03/Veg-Biryani-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "08/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Gobi with Poratta",
+      "image": "https://rustictadka.com/wp-content/uploads/2025/02/aloo-gobi-paratha-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "09/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Steam Rice with Dal Palak and Chicken 65",
+      "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
+      "Added": "done"
+    },
+    {
+      "date": "09/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Murgh Makhani with Poratta",
+      "image": "https://www.harighotra.co.uk/images/recipes/hero/murgh-makhani-hero.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "09/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "White Rice with Beetroot Upperi, Rasam & Fish Kuzhambu",
+      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7",
+      "Added": "done"
+    },
+    {
+      "date": "09/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Dosha Sambar with Chutney",
+      "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "09/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Green Peas Kurma",
+      "image": "https://www.cookwithkushi.com/wp-content/uploads/2019/09/ghee_rice_recipe_02.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "09/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Dosha Set with Sambar and Chutney",
+      "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "10/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken 65 Biryani",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    },
+    {
+      "date": "10/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kadai with Poratta",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
+    },
+    {
+      "date": "10/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Coimbatore Biryani",
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
+      "Added": "done"
+    },
+    {
+      "date": "10/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Naadan Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
+      "Added": "done"
+    },
+    {
+      "date": "10/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani",
+      "image": "https://t3.ftcdn.net/jpg/10/16/17/94/360_F_1016179460_CI6Aq4b7QMgdVNdsUJYRlmlrEh8FQUJ9.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "10/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Dal Palak with Chappathi",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "11/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Jeera Rice with Chicken Roast",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
+    },
+    {
+      "date": "11/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chilly Gobi with Chapathi",
+      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b",
+      "Added": "done"
+    },
+    {
+      "date": "11/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "White Rice with Chicken Curry & Upperi",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    },
+    {
+      "date": "11/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Chukka with Poratta",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    },
+    {
+      "date": "11/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Jeera Rice with Veg Kadai",
+      "image": "https://i0.wp.com/curryandvanilla.com/wp-content/uploads/2018/09/Jeera-Vegetable-Fried-Rice-3B-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "11/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chilly Gobi with Poratta",
+      "image": "https://i0.wp.com/spicediary.com/wp-content/uploads/2018/02/dd_Fotor.png",
+      "Added": "done"
+    },
+    {
+      "date": "12/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Hyderabadi Chicken Biryani",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "12/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Butter Chicken with Poratta",
+      "image": "https://foodess.com/wp-content/uploads/2023/10/Curry-Chicken.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "12/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken 65 Biryani",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    },
+    {
+      "date": "12/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
+    },
+    {
+      "date": "12/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Hyderabadi Veg Biryani",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2013/03/hyderabadi-vegetable-dum-biryani-recipe.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "12/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Green Peas Kurma with Chappathi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjOG-_4ihLhn40Ok77yr7R7SUZ9PfgLt8K-5dvC_3yOKhn_kj3BYKPn3R5RBCHk2Pw3THCLskokfRyaMtpzizN6ca64oJ9K88rr4ThYPSRF8tsM8VHrYbA-bVuGzKDXWh_pP9gk6jXu_A/s1600/20180118_113936.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "13/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Veg Pulao with Dal Makhani",
+      "image": "https://cdn.uengage.io/uploads/28289/image-1CGHAM-1703875393.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "13/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kolhapuri with Chappathi",
+      "image": "https://blogger.blogspot.com/img/b/R29vZ2xl/AVvXsEiRsJE3-_ooblXyWbmaEAMpfeFcCvlLhOhXFbnZyaUTYCPeSHh_YMiLlNwKQLVeEgduZfsFGOVpwm2N2zfTsnDU91zzjEaMpJsKt_PolcqcspdmU5cOY4O_QgoOTkMPRauVpf8F/s1600/11.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "13/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Jeera Rice with Chicken Roast",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
+    },
+    {
+      "date": "13/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chilly Gobi with Chappathi",
+      "image": "https://images.unsplash.com/photo-1626082896235-8a56c0d8627b",
+      "Added": "done"
+    },
+    {
+      "date": "13/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Pulao with Dal Makhani",
+      "image": "https://cdn.uengage.io/uploads/28289/image-1CGHAM-1703875393.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "13/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Kolhapuri with Poratta",
+      "image": "https://www.cookingcarnival.com/wp-content/uploads/2015/05/Veg-Kolhapuri-3.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fried Rice with Chilly Chicken",
+      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74",
+      "Added": "done"
+    },
+    {
+      "date": "14/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Masala with Chappathi",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2013/02/1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Hyderabadi Biryani",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Butter Chicken with Chappathi",
+      "image": "https://foodess.com/wp-content/uploads/2023/10/Curry-Chicken.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Fried Rice with Chilly Gobi",
+      "image": "https://mycookingjourney.com/wp-content/uploads/2013/09/Indo-chinese-fried-rice-5-1-683x1024.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "15/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fry (2pcs) Dal Chana Masala Rice",
+      "image": "https://khinskitchen.com/wp-content/uploads/2021/10/chicken-and-chickpea-curry-03.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "15/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Curry with Poratta",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDGLhop2h2mHbuE2LxDLvAaxhuLgtD2p__DJeYtH2wWGa820tK8_yg8Dh687I0AX3Ogf3v5SzlWJUTNp1gs3xs1WCuDKjcAf87-C_8O6qrfcdckFyIa-55F0dVsLq3tX1zgE085jjzsdyJ/s1600/2015-12-29_12.17.24.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "15/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Thalasseri Chicken Dum Biryani",
+      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c",
+      "Added": "done"
+    },
+    {
+      "date": "15/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Kumaragham Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74",
+      "Added": "done"
+    },
+    {
+      "date": "15/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Dal Curry with Rice and Gobi 65",
+      "image": "https://i2.wp.com/wanderingchickpea.com/wp-content/uploads/2021/04/53D47E58-27C6-4F69-BBBA-C9165F0B60A6.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "15/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chana Masala with Poratta",
+      "image": "https://img.freepik.com/premium-photo/chole-chana-masala-with-paratha-chickpea-spicy-curry-served-with-laccha-parantha_466689-403.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "12/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Saffron Pulao with Kesari",
+      "image": "https://www.saffrontrail.com/wp-content/uploads/2016/10/saffron-rice-with-fruits-and-nuts.1024x1024.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "12/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Noodles",
+      "image": "https://i0.wp.com/www.happyandharried.com/wp-content/uploads/2017/06/SPICY-SCHEZWAN-CHICKEN-NOODLES-HAPPYHARRIED.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "12/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fried Rice with Chilly Chicken",
+      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74",
+      "Added": "done"
+    },
+    {
+      "date": "12/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Kurma with Chappathi",
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
+    },
+    {
+      "date": "12/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Masala Bhat",
+      "image": "https://mytastycurry.com/wp-content/uploads/2020/05/Masale-bhaat-recipe-photo-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "12/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Set Dosa with Sambar and Chutney",
+      "image": "https://www.archanaskitchen.com//images/archanaskitchen/Indian_Breakfast_Tiffins/Karanataka_Style_Set_Dosa_Recipe_Thick_Pancakes_Indian_Vegetarian_Archanas_Kitchen-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "13/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Kaalimirch",
+      "image": "https://flavorquotient.com/wp-content/uploads/2023/05/Chicken-Kali-Mirch-EIR-5-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "13/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Aloo Gobi with Chapathi",
+      "image": "https://i0.wp.com/spicediary.com/wp-content/uploads/2018/02/GobiAlooED3.png?ssl=1",
+      "Added": "done"
+    },
+    {
+      "date": "13/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fry (2pcs) with Sambar Thoran Rice",
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
+    },
+    {
+      "date": "13/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Beef Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "13/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Gobi Mutter Masala",
+      "image": "https://www.teaforturmeric.com/wp-content/uploads/2023/11/Matar-Paneer-20-728x1092.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "13/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Stew with Poratta",
+      "image": "https://i0.wp.com/cookreja.com/wp-content/uploads/2020/10/Kerala-style-veg-stew-scaled.jpg?resize=700%2C525&ssl=1",
+      "Added": "done"
+    },
+    {
+      "date": "14/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Kashmiri Pulao with Chicken Nabaavi",
+      "image": "https://foodfusion.com/wp-content/uploads/2019/06/Kashmiri-Chicken-Pulao-Recipe-by-food-fusion-5.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Murgh Makhani with Poratta",
+      "image": "https://www.harighotra.co.uk/images/recipes/hero/murgh-makhani-hero.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Mandi",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "14/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Noodles",
+      "image": "https://i0.wp.com/www.happyandharried.com/wp-content/uploads/2017/06/SPICY-SCHEZWAN-CHICKEN-NOODLES-HAPPYHARRIED.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Upperi, Gobi 65, and Sambar",
+      "image": "https://img-global.cpcdn.com/recipes/5878a96e6ea0c30b/200x200cq70/south-indian-platter-sambhar-rice-Dosha-vada-recipe-main-photo.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Onion Dosa with Sambar and Chutney",
+      "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "15/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Muradabadi Dum Biryani with Raitha and Mirchi Salan",
+      "image": "https://ranveerbrar.com/wp-content/uploads/2024/04/muradabadi-biryani.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "15/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Roast with Chappathi",
+      "image": "https://cdn.dotpe.in/longtail/store-items/1008509/9sahfJBK.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "15/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Pepper Masala",
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2",
+      "Added": "done"
+    },
+    {
+      "date": "15/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Mappas with Chappathi",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "15/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani",
+      "image": "https://t3.ftcdn.net/jpg/10/16/17/94/360_F_1016179460_CI6Aq4b7QMgdVNdsUJYRlmlrEh8FQUJ9.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "15/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Green Peas Masala with Chappathi",
+      "image": "https://www.sharmispassions.com/wp-content/uploads/2012/08/GreenPeasMasala22.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "16/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Veg Noodles with Chicken Manchurian",
+      "image": "https://ubfoody.com/wp-content/uploads/2023/02/Chicken-Manchurian-Noodles.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "16/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Poori Bhaji",
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2020/03/poori-masala-kizhangu.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "16/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Meals with Chicken Fry (2pcs) Thoran and Sambar",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "16/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Roast with Chappathi",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
+    },
+    {
+      "date": "16/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Sambar, Upperi, and Gobi Fry",
+      "image": "https://64.media.tumblr.com/25d2c790be7b2af1d2232d21ea9c41f3/eccc7ad0c2ef9156-4e/s1280x1920/0ae1d6f0dfd05043516798b19c913e10525910c4.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "16/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chappathi with Veg Stew",
+      "image": "https://icorganicstore.com/wp-content/uploads/2022/10/Chappathi-Stew-scaled.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "17/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Peas Pulao with Chicken Dopyasa",
+      "image": "https://ranveerbrar.com/wp-content/uploads/2021/04/Berry-Pulao.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "17/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chole Bhature",
+      "image": "https://thewhiskaddict.com/wp-content/uploads/2024/08/IMG_0727-4-scaled.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "17/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Mysore Chicken Biryani",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
+    },
+    {
+      "date": "17/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Green Peas with Poratta",
+      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d",
+      "Added": "done"
+    },
+    {
+      "date": "17/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Peas Pulao with Veg Curry",
+      "image": "https://www.felicityplus.com/wp-content/uploads/2019/04/peas-pulao.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "17/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Kurma with Poratta",
+      "image": "https://i0.wp.com/www.desifiesta.com/wp-content/uploads/2014/11/vegetablekurma3.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "18/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fried Rice with Chilly Chicken",
+      "image": "https://rajscorner.com.au/wp-content/uploads/2023/12/eb310049-7277-4156-b9a3-5a8b7b317116.png",
+      "Added": "done"
+    },
+    {
+      "date": "18/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Aloo Gobi with Chapathi",
+      "image": "https://i0.wp.com/spicediary.com/wp-content/uploads/2018/02/GobiAlooED3.png?ssl=1",
+      "Added": "done"
+    },
+    {
+      "date": "18/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Mandi",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "18/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Beef Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "18/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Gobi Mutter Masala",
+      "image": "https://www.teaforturmeric.com/wp-content/uploads/2023/11/Matar-Paneer-20-728x1092.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "18/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Onion Dosa with Sambar and Chutney",
+      "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "19/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Biriyani",
+      "image": "https://myblacktree.com/cdn/shop/files/a029e1ba-a073-4fc0-bdea-5b7393a1ad7b-removebg-preview.png",
+      "Added": "done"
+    },
+    {
+      "date": "19/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Green Peas Masala with Poratta",
+      "image": "https://recipesaresimple.com/wp-content/uploads/2022/12/Kerala-Green-Peas-Masala-recipe.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Dum Biryani",
+      "image": "https://figarooliveoil.com/wp-content/uploads/2022/02/chicken-dum-biryani-2.png",
+      "Added": "done"
+    },
+    {
+      "date": "19/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Malabar Chicken with Chappathi",
+      "image": "https://www.yummyoyummy.com/wp-content/uploads/2016/08/Chicken-roast-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani",
+      "image": "https://kannanskitchen.com/wp-content/uploads/2021/04/DSC_1079_1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Mushroom Masala with Poratta",
+      "image": "https://myfoodstory.com/wp-content/uploads/2020/09/Mushroom-Pepper-Fry-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "20/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Masala Rice with Chicken Punjabi",
+      "image": "https://www.cookingandcooking.com/cook-db/pictures/Chicken-Masala-Rice.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "20/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chilly Chicken with Chappathi",
+      "image": "https://img-global.cpcdn.com/recipes/58d558d8c0de31f7/680x482cq70/chilli-chicken-with-plan-roti-recipe-main-photo.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "20/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chilly Chicken with Garlic Fried Rice",
+      "image": "https://myblacktree.com/cdn/shop/files/a029e1ba-a073-4fc0-bdea-5b7393a1ad7b-removebg-preview.png",
+      "Added": "done"
+    },
+    {
+      "date": "20/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chana Masala with Battora",
+      "image": "https://cdn.prod.website-files.com/64931d2aee18510b47f4bb1f/6776f55b5aefeaadfb4c5b2c_Chole-Bhature-Recipe-Cover-Image.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "20/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Masala Rice and Veg Curry",
+      "image": "https://www.indianveggiedelight.com/wp-content/uploads/2020/03/masala-rice-new-1-featured.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "20/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chilly Gobi with Chappathi",
+      "image": "https://i0.wp.com/spicediary.com/wp-content/uploads/2018/02/dd_Fotor.png",
+      "Added": "done"
+    },
+    {
+      "date": "21/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Jeera Pulao with Kadai Chicken",
+      "image": "https://i0.wp.com/www.himanshudhaba.com/wp-content/uploads/2018/06/butter-chicken4pcs-with-jeera-ricesalad_chutney.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Garlic Chicken with Chapathi",
+      "image": "https://www.cookrepublic.com/wp-content/uploads/2021/03/spinach-garlic-chicken-masala05.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Fried Chicken Dumplings Biryani",
+      "image": "https://food.annapurnaderoyal.com/wp-content/uploads/2021/07/Chicken-Fry-Piece-Biryani.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Green Peas Masala with Poratta",
+      "image": "https://recipesaresimple.com/wp-content/uploads/2022/12/Kerala-Green-Peas-Masala-recipe.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Jeera Rice with Veg Kadai",
+      "image": "https://i0.wp.com/curryandvanilla.com/wp-content/uploads/2018/09/Jeera-Vegetable-Fried-Rice-3B-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Masala Dosa with Sambar and Chutney",
+      "image": "https://www.sanjanafeasts.co.uk/wp-content/uploads/2023/04/Masala-Dosa-recipe-Sanjana-Feasts-735x1103.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "22/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Tomato Rice with Chicken Simla Mirchi",
+      "image": "https://marleyspoon.com/media/recipes/34224/main_photos/large/spiced-5864cabedf4f39e619caa3b29ea3ece3.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "22/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Masala with Poratta",
+      "image": "https://maunikagowardhan.co.uk/wp-content/uploads/2017/08/Tamil-Black-Pepper-Chicken-Curry-700x467.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "22/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Irachi Choru",
+      "image": "https://headbangerskitchen.com/wp-content/uploads/2024/03/ERACHICHORU-Horizontal1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "22/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chilly Chicken with Veg Fried Rice",
+      "image": "https://mycookingjourney.com/wp-content/uploads/2013/09/Indo-chinese-fried-rice-5-1-683x1024.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "22/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Tomato Rice with Chilly Gobi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqwmBT8GSB9QKDxA3NKBC-vi_ToLsreCxhqd-uWGwe64L1IOrtzHKQQ2cvXRGhVlGZVP8yyxzlLXhwvoztfd0mRthNmzyAiBjILv8EKajxEmRdMNOmoMfQE-74Y24FcHfsfPWvPOYebyI/s1600/9152.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "22/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Puri Bhaji",
+      "image": "https://paattiskitchen.com/wp-content/uploads/2023/01/kmc_20230129_200720-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "23/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Palak Chicken with Veg Pulao",
+      "image": "https://ikneadtoeat.com/wp-content/uploads/2021/08/palak-chicken-3-500x500.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "23/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Curry with Chapathi",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2013/02/1-500x375.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "23/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Peralan",
+      "image": "https://www.qasralbaharshj.com/wp-content/uploads/2024/11/290962392_1089773885306753_7063017068582460187_n.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "23/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Kurma with Poratta",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Parotta_with_Egg_Kurma_and_Onion_Slices.JPG",
+      "Added": "done"
+    },
+    {
+      "date": "23/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Pulao with Veg Curry",
+      "image": "https://i0.wp.com/mariasmenu.com/wp-content/uploads/Veg-Pulao.png",
+      "Added": "done"
+    },
+    {
+      "date": "23/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Gobi Masala with Poratta",
+      "image": "https://lh6.googleusercontent.com/proxy/umlZlcu6rMjAAp1XbqfVw3Dafcvf8q4plIWHPQ8ASwKz62EMu8SA3rdEgNAQSfNr42TySd2ItcQwdB98TRPZidonT0RBhy_gH4M",
+      "Added": "done"
+    },
+    {
+      "date": "24/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Egg Biryani with Raitha and Salan",
+      "image": "https://thumbs.dreamstime.com/b/egg-biryani-thali-basmati-rice-cooked-masala-roasted-eggs-spices-served-mirchi-ka-salan-raita-sweet-papad-selective-focus-225928339.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "24/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Noodles with Chicken Fry (2pcs)",
+      "image": "https://www.justataste.com/wp-content/uploads/2016/03/teriyaki-stir-fry-noodles-2024.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "24/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Meals with Thoran, Sambar & Chicken Fry (2pcs)",
+      "image": "https://blogger.githubusercontent.com/img/b/R29vZ2xl/AVvXsEizuQlcEK37ZVz_qx4yPLGYyitzbkPVRrmzZ4NhYJsrafNku44QghK8gxym8_ni76m1X3tjpKxPWxevn1Ke-qA185LLHIu64HgEsuPjDGyqqO83AQrpd6jn3ZTTVip0TTj-U41jZZNunG8/s1600/IMG_1218.JPG",
+      "Added": "done"
+    },
+    {
+      "date": "24/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Garlic Chicken with Chappathi",
+      "image": "https://www.cookrepublic.com/wp-content/uploads/2021/03/spinach-garlic-chicken-masala05.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "24/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Chennai Veg Biryani",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/veg-biryani-vegetable-biryani.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "24/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Noodles",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/hakka-noodles-recipe.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "25/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fried Dum Biryani",
+      "image": "https://b.zmtcdn.com/data/dish_photos/703/be05c76cecbc6d8681404f1e8ea30703.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "25/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Masala with Poratta",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/2d/58/1b/Chicken-pepper-fry-with.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "25/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Veg Pulao with Chicken Kondattam",
+      "image": "https://www.veganricha.com/wp-content/uploads/2022/03/Vegan-Chicken-Kondattam-0034.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "25/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Tikka Masala with Poratta",
+      "image": "https://ministryofcurry.com/wp-content/uploads/2019/10/Pomi-Chicken-Tikka-Masala-1-2.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "25/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Sambar, Gobi 65, and Upperi",
+      "image": "https://southindiathali.weebly.com/uploads/4/6/3/4/46342159/s590758661299742556_p12_i1_w636.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "25/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Mix Veg Curry with Chappathi",
+      "image": "https://papadumsindiancuisine.com/wp-content/uploads/2024/07/fa41be006ee742acd95b94ca83ad285b.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "26/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Kaalimirch",
+      "image": "https://flavorquotient.com/wp-content/uploads/2023/05/Chicken-Kali-Mirch-EIR-5-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "26/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kali Mirchi with Chapathi",
+      "image": "https://www.savoryandsweetfood.com/wp-content/uploads/2021/10/E6CAE7B3-3737-42D5-A68F-9DF0A36CF71B-scaled.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "26/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fry (2pcs) with Sambar Thoran Rice",
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
+    },
+    {
+      "date": "26/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Noodles",
+      "image": "https://i0.wp.com/www.happyandharried.com/wp-content/uploads/2017/06/SPICY-SCHEZWAN-CHICKEN-NOODLES-HAPPYHARRIED.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "26/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Hyderabadi Veg Biryani",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2013/03/hyderabadi-vegetable-dum-biryani-recipe.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "26/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Green Peas Kurma with Chappathi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjOG-_4ihLhn40Ok77yr7R7SUZ9PfgLt8K-5dvC_3yOKhn_kj3BYKPn3R5RBCHk2Pw3THCLskokfRyaMtpzizN6ca64oJ9K88rr4ThYPSRF8tsM8VHrYbA-bVuGzKDXWh_pP9gk6jXu_A/s1600/20180118_113936.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "27/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Saffron Pulao with Kesari",
+      "image": "https://www.saffrontrail.com/wp-content/uploads/2016/10/saffron-rice-with-fruits-and-nuts.1024x1024.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "27/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Masala with Chappathi",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2013/02/1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "27/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Hyderabadi Biryani",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "27/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Butter Chicken with Chappathi",
+      "image": "https://foodess.com/wp-content/uploads/2023/10/Curry-Chicken.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "27/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Fried Rice with Chilly Gobi",
+      "image": "https://mycookingjourney.com/wp-content/uploads/2013/09/Indo-chinese-fried-rice-5-1-683x1024.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "27/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Kolhapuri with Poratta",
+      "image": "https://www.cookingcarnival.com/wp-content/uploads/2015/05/Veg-Kolhapuri-3.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "28/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fry (2pcs) Dal Chana Masala Rice",
+      "image": "https://khinskitchen.com/wp-content/uploads/2021/10/chicken-and-chickpea-curry-03.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "28/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Curry with Poratta",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDGLhop2h2mHbuE2LxDLvAaxhuLgtD2p__DJeYtH2wWGa820tK8_yg8Dh687I0AX3Ogf3v5SzlWJUTNp1gs3xs1WCuDKjcAf87-C_8O6qrfcdckFyIa-55F0dVsLq3tX1zgE085jjzsdyJ/s1600/2015-12-29_12.17.24.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "28/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Thalasseri Chicken Dum Biryani",
+      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c",
+      "Added": "done"
+    },
+    {
+      "date": "28/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Kumaragham Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74",
+      "Added": "done"
+    },
+    {
+      "date": "28/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Dal Curry with Rice and Gobi 65",
+      "image": "https://i2.wp.com/wanderingchickpea.com/wp-content/uploads/2021/04/53D47E58-27C6-4F69-BBBA-C9165F0B60A6.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "28/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chana Masala with Poratta",
+      "image": "https://img.freepik.com/premium-photo/chole-chana-masala-with-paratha-chickpea-spicy-curry-served-with-laccha-parantha_466689-403.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "29/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Kashmiri Pulao with Chicken Nabaavi",
+      "image": "https://foodfusion.com/wp-content/uploads/2019/06/Kashmiri-Chicken-Pulao-Recipe-by-food-fusion-5.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "29/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Murgh Makhani with Poratta",
+      "image": "https://www.harighotra.co.uk/images/recipes/hero/murgh-makhani-hero.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "29/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Pepper Masala",
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2",
+      "Added": "done"
+    },
+    {
+      "date": "29/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Mappas with Chappathi",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "29/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Masala Bhat",
+      "image": "https://mytastycurry.com/wp-content/uploads/2020/05/Masale-bhaat-recipe-photo-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "29/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Set Dosa with Sambar and Chutney",
+      "image": "https://www.archanaskitchen.com//images/archanaskitchen/Indian_Breakfast_Tiffins/Karanataka_Style_Set_Dosa_Recipe_Thick_Pancakes_Indian_Vegetarian_Archanas_Kitchen-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "30/06/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Muradabadi Dum Biryani with Raitha and Mirchi Salan",
+      "image": "https://ranveerbrar.com/wp-content/uploads/2024/04/muradabadi-biryani.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "30/06/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Roast with Chappathi",
+      "image": "https://cdn.dotpe.in/longtail/store-items/1008509/9sahfJBK.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "30/06/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "White Rice with Chicken Curry & Upperi",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    },
+    {
+      "date": "30/06/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Chukka with Poratta",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    },
+    {
+      "date": "30/06/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Veg Curry",
+      "image": "https://cakeworkorange.com/wp-content/uploads/2020/09/IP-kurma-scaled.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "30/06/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Dal Palak with Chappathi",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "01/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Jeera Rice with Chicken Roast",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
+    },
+    {
+      "date": "01/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kolhapuri with Chappathi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRsJE3-_ooblXyWbmaEAMpfeFcCvlLhOhXFbnZyaUTYCPeSHh_YMiLlNwKQLVeEgduZfsFGOVpwm2N2zfTsnDU91zzjEaMpJsKt_PolcqcspdmU5cOY4O_QgoOTkMPRauVpf8F/s1600/11.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "01/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken 65 Biryani",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    },
+    {
+      "date": "01/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
+    },
+    {
+      "date": "01/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Pulao with Dal Makhani",
+      "image": "https://cdn.uengage.io/uploads/28289/image-1CGHAM-1703875393.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "01/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Green Peas Masala with Chappathi",
+      "image": "https://www.sharmispassions.com/wp-content/uploads/2012/08/GreenPeasMasala22.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "02/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Hyderabadi Chicken Biryani",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "02/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Butter Chicken with Poratta",
+      "image": "https://foodess.com/wp-content/uploads/2023/10/Curry-Chicken.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "02/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Coimbatore Biryani",
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
+      "Added": "done"
+    },
+    {
+      "date": "02/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Naadan Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
+      "Added": "done"
+    },
+    {
+      "date": "02/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Moru Curry, Upperi, and Gobi 65",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirNP-V4lCl30vIlyNvll8umSQPGatXSoR0KYDbCuWjYU-qxEcqyUY857rUQ7Aw6mNeytMx3ciZJypINEqtqigq7dbBHIlx7MsU1SrYdZbzXd4jnPsKVk583fFfAx6bhanFAu-d0MTuvjBXv/s1600/Moru+Kachiyathu_Palaharam+(7+of+7).jpg",
+      "Added": "done"
+    },
+    {
+      "date": "02/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Kadai Veg with Chappathi",
+      "image": "https://www.yummyoyummy.com/wp-content/uploads/2015/08/Kadai-vegetables12.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "03/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Steam Rice with Dal Palak and Chicken 65",
+      "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
+      "Added": "done"
+    },
+    {
+      "date": "03/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kadai with Poratta",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
+    },
+    {
+      "date": "03/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "White Rice with Beetroot Upperi, Rasam & Fish Kuzhambu",
+      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7",
+      "Added": "done"
+    },
+    {
+      "date": "03/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Dosha Sambar with Chutney",
+      "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "03/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Green Peas Kurma",
+      "image": "https://www.cookwithkushi.com/wp-content/uploads/2019/09/ghee_rice_recipe_02.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "03/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Dosha Set with Sambar and Chutney",
+      "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "04/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Jeera Pulao with Chicken Korma",
+      "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
+      "Added": "done"
+    },
+    {
+      "date": "04/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Schezwan Noodles with Ketchup",
+      "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
+      "Added": "done"
+    },
+    {
+      "date": "04/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Meals with Moru Curry, Cabbage Upperi & Fish Fry",
+      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d",
+      "Added": "done"
+    },
+    {
+      "date": "04/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Varattarachathu with Poratta",
+      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6be8b845",
+      "Added": "done"
+    },
+    {
+      "date": "04/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Rasam, Upperi, and Gobi Fry",
+      "image": "https://revi.b-cdn.net/wp-content/uploads/2016/06/tomato-rasam-vert5.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "04/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Gobi with Poratta",
+      "image": "https://rustictadka.com/wp-content/uploads/2025/02/aloo-gobi-paratha-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "05/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Curd Rice with Onion Pakoda and Pickle",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+      "Added": "done"
+    },
+    {
+      "date": "05/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kaalimirchi with Chappathi",
+      "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
+      "Added": "done"
+    },
+    {
+      "date": "05/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Curry",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
+    },
+    {
+      "date": "05/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Mysore Masala Dosa",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/05/mysore-masala-dosa-1a.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "05/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Tomato Rice with Sambar",
+      "image": "https://bestrecipesofindia.com/wp-content/uploads/2024/04/IMG_0935.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "05/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Stew with Chappathi",
+      "image": "https://bestrecipesofindia.com/wp-content/uploads/2024/04/IMG_0935.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "06/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Schezwan Chicken Fried Rice with Ketchup",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "Added": "done"
+    },
+    {
+      "date": "06/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Butter Masala with Poratta",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+      "Added": "done"
+    },
+    {
+      "date": "06/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Majboos",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "06/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "3pcs Chappathi with Chicken Istoo",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
+    },
+    {
+      "date": "06/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Garlic Fried Rice and Salad Veg",
+      "image": "https://cookingwithchefbryan.com/wp-content/uploads/2024/02/Fried-Rice-with-Stir-Fried-Veggies-in-a-Garlic-Sauce-scaled.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "06/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Dosha Sambar and Chutney",
+      "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2019/Id_Fresh_Masala_Dosa_Recipe_With_Sambar_and_Chutney_2.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "07/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Lakhnawi Chicken Biryani with Raitha and Salan",
+      "image": "https://images.unsplash.com/photo-1620110260409-7b72b6c88fc3",
+      "Added": "done"
+    },
+    {
+      "date": "07/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Mughlai Chicken with Chapathi",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "Added": "done"
+    },
+    {
+      "date": "07/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "White Rice, Sambar, Chana Thoran & Chicken Fry (2pcs)",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "07/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chettinad Chicken with Poratta",
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2",
+      "Added": "done"
+    },
+    {
+      "date": "07/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani with Raita and Salan",
+      "image": "https://thumbs.dreamstime.com/b/indian-veg-biryani-pulav-vegetable-biriyani-plate-raita-aromatic-rice-dish-made-basmati-mixed-veggies-herbs-spices-342336967.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "07/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Plain Dosa with Sambar and Chutney",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/05/mysore-masala-dosa.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "08/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Mint Onion Pulao with Malai Chicken",
+      "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
+      "Added": "done"
+    },
+    {
+      "date": "08/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Bedmi Poori with Bhaji",
+      "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c",
+      "Added": "done"
+    },
+    {
+      "date": "08/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chennai Dum Biryani",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "08/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Neelagiri Kurma with Chappathi",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "08/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Dal and Chicken Fry (2pcs)",
+      "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
+      "Added": "done"
+    },
+    {
+      "date": "08/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Palak with Poratta",
+      "image": "https://simpleindianmeals.com/wp-content/uploads/2023/02/Palak-Paratha-500x500.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "09/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Sabji Pulao with Tawa Chicken",
+      "image": "https://images.unsplash.com/photo-1605485098184-65487d5ce60c",
+      "Added": "done"
+    },
+    {
+      "date": "09/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Dumka Chicken with Poratta",
+      "image": "https://images.unsplash.com/photo-1620110260409-7b72b6c88fc3",
+      "Added": "done"
+    },
+    {
+      "date": "09/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chennai Egg Biryani",
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
+    },
+    {
+      "date": "09/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Kurma with Chappathi",
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
+    },
+    {
+      "date": "09/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Green Peas Kurma",
+      "image": "https://i0.wp.com/www.sharmiskitchen.com/wp-content/uploads/2018/04/Peas-Pulao1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "09/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Mysore Masala Dosa with Sambar and Chutney",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/05/mysore-masala-dosa-1a.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "10/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Veg Noodles with Chicken Manchurian",
+      "image": "https://ubfoody.com/wp-content/uploads/2023/02/Chicken-Manchurian-Noodles.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "10/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Poori Bhaji",
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2020/03/poori-masala-kizhangu.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "10/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Meals with Chicken Fry (2pcs) Thoran and Sambar",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "10/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Roast with Chappathi",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
+    },
+    {
+      "date": "10/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Sambar, Upperi, and Gobi Fry",
+      "image": "https://64.media.tumblr.com/25d2c790be7b2af1d2232d21ea9c41f3/eccc7ad0c2ef9156-4e/s1280x1920/0ae1d6f0dfd05043516798b19c913e10525910c4.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "10/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chappathi with Veg Stew",
+      "image": "https://icorganicstore.com/wp-content/uploads/2022/10/Chappathi-Stew-scaled.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "11/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Peas Pulao with Chicken Dopyasa",
+      "image": "https://ranveerbrar.com/wp-content/uploads/2021/04/Berry-Pulao.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "11/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chole Bhature",
+      "image": "https://thewhiskaddict.com/wp-content/uploads/2024/08/IMG_0727-4-scaled.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "11/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Mysore Chicken Biryani",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
+    },
+    {
+      "date": "11/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Green Peas with Poratta",
+      "image": "https://images.unsplash.com/photo-1600375922770-6f7a7e8d423d",
+      "Added": "done"
+    },
+    {
+      "date": "11/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Peas Pulao with Veg Curry",
+      "image": "https://www.felicityplus.com/wp-content/uploads/2019/04/peas-pulao.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "11/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Kurma with Poratta",
+      "image": "https://i0.wp.com/www.desifiesta.com/wp-content/uploads/2014/11/vegetablekurma3.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "12/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fried Rice with Chilly Chicken",
+      "image": "https://rajscorner.com.au/wp-content/uploads/2023/12/eb310049-7277-4156-b9a3-5a8b7b317116.png",
+      "Added": "done"
+    },
+    {
+      "date": "12/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Aloo Gobi with Chapathi",
+      "image": "https://i0.wp.com/spicediary.com/wp-content/uploads/2018/02/GobiAlooED3.png?ssl=1",
+      "Added": "done"
+    },
+    {
+      "date": "12/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Mandi",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "12/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Beef Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "12/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Gobi Mutter Masala",
+      "image": "https://www.teaforturmeric.com/wp-content/uploads/2023/11/Matar-Paneer-20-728x1092.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "12/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Onion Dosa with Sambar and Chutney",
+      "image": "https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "13/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Garlic Fried Rice with Chilly Chicken",
+      "image": "https://myblacktree.com/cdn/shop/files/a029e1ba-a073-4fc0-bdea-5b7393a1ad7b-removebg-preview.png",
+      "Added": "done"
+    },
+    {
+      "date": "13/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Green Peas Masala with Poratta",
+      "image": "https://recipesaresimple.com/wp-content/uploads/2022/12/Kerala-Green-Peas-Masala-recipe.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "13/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Dum Biryani",
+      "image": "https://figarooliveoil.com/wp-content/uploads/2022/02/chicken-dum-biryani-2.png",
+      "Added": "done"
+    },
+    {
+      "date": "13/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Malabar Chicken with Chappathi",
+      "image": "https://www.yummyoyummy.com/wp-content/uploads/2016/08/Chicken-roast-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "13/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani",
+      "image": "https://kannanskitchen.com/wp-content/uploads/2021/04/DSC_1079_1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "13/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Mushroom Masala with Poratta",
+      "image": "https://myfoodstory.com/wp-content/uploads/2020/09/Mushroom-Pepper-Fry-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Masala Rice with Chicken Punjabi",
+      "image": "https://www.cookingandcooking.com/cook-db/pictures/Chicken-Masala-Rice.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chilly Chicken with Chappathi",
+      "image": "https://img-global.cpcdn.com/recipes/58d558d8c0de31f7/680x482cq70/chilli-chicken-with-plan-roti-recipe-main-photo.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chilly Chicken with Garlic Fried Rice",
+      "image": "https://myblacktree.com/cdn/shop/files/a029e1ba-a073-4fc0-bdea-5b7393a1ad7b-removebg-preview.png",
+      "Added": "done"
+    },
+    {
+      "date": "14/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chana Masala with Battora",
+      "image": "https://cdn.prod.website-files.com/64931d2aee18510b47f4bb1f/6776f55b5aefeaadfb4c5b2c_Chole-Bhature-Recipe-Cover-Image.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Masala Rice and Veg Curry",
+      "image": "https://www.indianveggiedelight.com/wp-content/uploads/2020/03/masala-rice-new-1-featured.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "14/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chilly Gobi with Chappathi",
+      "image": "https://i0.wp.com/spicediary.com/wp-content/uploads/2018/02/dd_Fotor.png",
+      "Added": "done"
+    },
+    {
+      "date": "15/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Jeera Pulao with Kadai Chicken",
+      "image": "https://i0.wp.com/www.himanshudhaba.com/wp-content/uploads/2018/06/butter-chicken4pcs-with-jeera-ricesalad_chutney.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "15/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Garlic Chicken with Chapathi",
+      "image": "https://www.cookrepublic.com/wp-content/uploads/2021/03/spinach-garlic-chicken-masala05.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "15/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Fried Chicken Dumplings Biryani",
+      "image": "https://food.annapurnaderoyal.com/wp-content/uploads/2021/07/Chicken-Fry-Piece-Biryani.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "15/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Green Peas Masala with Poratta",
+      "image": "https://recipesaresimple.com/wp-content/uploads/2022/12/Kerala-Green-Peas-Masala-recipe.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "15/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Jeera Rice with Veg Kadai",
+      "image": "https://i0.wp.com/curryandvanilla.com/wp-content/uploads/2018/09/Jeera-Vegetable-Fried-Rice-3B-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "15/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Masala Dosa with Sambar and Chutney",
+      "image": "https://www.sanjanafeasts.co.uk/wp-content/uploads/2023/04/Masala-Dosa-recipe-Sanjana-Feasts-735x1103.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "16/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Tomato Rice with Chicken Simla Mirchi",
+      "image": "https://marleyspoon.com/media/recipes/34224/main_photos/large/spiced-5864cabedf4f39e619caa3b29ea3ece3.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "16/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Masala with Poratta",
+      "image": "https://maunikagowardhan.co.uk/wp-content/uploads/2017/08/Tamil-Black-Pepper-Chicken-Curry-700x467.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "16/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Irachi Choru",
+      "image": "https://headbangerskitchen.com/wp-content/uploads/2024/03/ERACHICHORU-Horizontal1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "16/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chilly Chicken with Veg Fried Rice",
+      "image": "https://mycookingjourney.com/wp-content/uploads/2013/09/Indo-chinese-fried-rice-5-1-683x1024.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "16/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Tomato Rice with Chilly Gobi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqwmBT8GSB9QKDxA3NKBC-vi_ToLsreCxhqd-uWGwe64L1IOrtzHKQQ2cvXRGhVlGZVP8yyxzlLXhwvoztfd0mRthNmzyAiBjILv8EKajxEmRdMNOmoMfQE-74Y24FcHfsfPWvPOYebyI/s1600/9152.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "16/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Puri Bhaji",
+      "image": "https://paattiskitchen.com/wp-content/uploads/2023/01/kmc_20230129_200720-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "17/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Palak Chicken with Veg Pulao",
+      "image": "https://ikneadtoeat.com/wp-content/uploads/2021/08/palak-chicken-3-500x500.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "17/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Curry with Chapathi",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2013/02/1-500x375.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "17/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Peralan",
+      "image": "https://www.qasralbaharshj.com/wp-content/uploads/2024/11/290962392_1089773885306753_7063017068582460187_n.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "17/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Kurma with Poratta",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Parotta_with_Egg_Kurma_and_Onion_Slices.JPG",
+      "Added": "done"
+    },
+    {
+      "date": "17/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Pulao with Veg Curry",
+      "image": "https://i0.wp.com/mariasmenu.com/wp-content/uploads/Veg-Pulao.png",
+      "Added": "done"
+    },
+    {
+      "date": "17/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Gobi Masala with Poratta",
+      "image": "https://lh6.googleusercontent.com/proxy/umlZlcu6rMjAAp1XbqfVw3Dafcvf8q4plIWHPQ8ASwKz62EMu8SA3rdEgNAQSfNr42TySd2ItcQwdB98TRPZidonT0RBhy_gH4M",
+      "Added": "done"
+    },
+    {
+      "date": "18/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Egg Biryani with Raitha and Salan",
+      "image": "https://thumbs.dreamstime.com/b/egg-biryani-thali-basmati-rice-cooked-masala-roasted-eggs-spices-served-mirchi-ka-salan-raita-sweet-papad-selective-focus-225928339.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "18/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Noodles with Chicken Fry (2pcs)",
+      "image": "https://www.justataste.com/wp-content/uploads/2016/03/teriyaki-stir-fry-noodles-2024.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "18/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Meals with Thoran, Sambar & Chicken Fry (2pcs)",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizuQlcEK37ZVz_qx4yPLGYyitzbkPVRrmzZ4NhYJsrafNku44QghK8gxym8_ni76m1X3tjpKxPWxevn1Ke-qA185LLHIu64HgEsuPjDGyqqO83AQrpd6jn3ZTTVip0TTj-U41jZZNunG8/s1600/IMG_1218.JPG",
+      "Added": "done"
+    },
+    {
+      "date": "18/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Garlic Chicken with Chappathi",
+      "image": "https://www.cookrepublic.com/wp-content/uploads/3353/03/spinach-garlic-chicken-masala05.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "18/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Chennai Veg Biryani",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/veg-biryani-vegetable-biryani.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "18/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Noodles",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/hakka-noodles-recipe.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fried Dum Biryani",
+      "image": "https://b.zmtcdn.com/data/dish_photos/703/be05c76cecbc6d8681404f1e8ea30703.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Masala with Poratta",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/2d/58/1b/Chicken-pepper-fry-with.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Veg Pulao with Chicken Kondattam",
+      "image": "https://www.veganricha.com/wp-content/uploads/2022/03/Vegan-Chicken-Kondattam-0034.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Tikka Masala with Poratta",
+      "image": "https://ministryofcurry.com/wp-content/uploads/2019/10/Pomi-Chicken-Tikka-Masala-1-2.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "19/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Sambar, Gobi 65, and Upperi",
+      "image": "https://southindiathali.weebly.com/uploads/4/6/3/4/46342159/s590758661299742556_p12_i1_w636.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "19/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Mix Veg Curry with Chappathi",
+      "image": "https://papadumsindiancuisine.com/wp-content/uploads/2024/07/fa41be006ee742acd95b94ca83ad285b.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "20/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Kaalimirch",
+      "image": "https://flavorquotient.com/wp-content/uploads/2023/05/Chicken-Kali-Mirch-EIR-5-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "20/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kali Mirchi with Chapathi",
+      "image": "https://www.savoryandsweetfood.com/wp-content/uploads/2021/10/E6CAE7B3-3737-42D5-A68F-9DF0A36CF71B-scaled.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "20/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fry (2pcs) with Sambar Thoran Rice",
+      "image": "https://images.unsplash.com/photo-1598515213351-6c2d822bcf2e",
+      "Added": "done"
+    },
+    {
+      "date": "20/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Noodles",
+      "image": "https://i0.wp.com/www.happyandharried.com/wp-content/uploads/2017/06/SPICY-SCHEZWAN-CHICKEN-NOODLES-HAPPYHARRIED.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "20/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Hyderabadi Veg Biryani",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2013/03/hyderabadi-vegetable-dum-biryani-recipe.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "20/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Green Peas Kurma with Chappathi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjOG-_4ihLhn40Ok77yr7R7SUZ9PfgLt8K-5dvC_3yOKhn_kj3BYKPn3R5RBCHk2Pw3THCLskokfRyaMtpzizN6ca64oJ9K88rr4ThYPSRF8tsM8VHrYbA-bVuGzKDXWh_pP9gk6jXu_A/s1600/20180118_113936.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Saffron Pulao with Kesari",
+      "image": "https://www.saffrontrail.com/wp-content/uploads/2016/10/saffron-rice-with-fruits-and-nuts.1024x1024.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Masala with Chappathi",
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2013/02/1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Hyderabadi Biryani",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Butter Chicken with Chappathi",
+      "image": "https://foodess.com/wp-content/uploads/2023/10/Curry-Chicken.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Fried Rice with Chilly Gobi",
+      "image": "https://mycookingjourney.com/wp-content/uploads/2013/09/Indo-chinese-fried-rice-5-1-683x1024.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "21/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Kolhapuri with Poratta",
+      "image": "https://www.cookingcarnival.com/wp-content/uploads/2015/05/Veg-Kolhapuri-3.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "22/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Fry (2pcs) Dal Chana Masala Rice",
+      "image": "https://khinskitchen.com/wp-content/uploads/2021/10/chicken-and-chickpea-curry-03.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "22/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Curry with Poratta",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDGLhop2h2mHbuE2LxDLvAaxhuLgtD2p__DJeYtH2wWGa820tK8_yg8Dh687I0AX3Ogf3v5SzlWJUTNp1gs3xs1WCuDKjcAf87-C_8O6qrfcdckFyIa-55F0dVsLq3tX1zgE085jjzsdyJ/s1600/2015-12-29_12.17.24.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "22/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Thalasseri Chicken Dum Biryani",
+      "image": "https://images.unsplash.com/photo-1630498568362-89b95b31a01c",
+      "Added": "done"
+    },
+    {
+      "date": "22/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Kumaragham Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1621091211165-4c2ed18d1b74",
+      "Added": "done"
+    },
+    {
+      "date": "22/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Dal Curry with Rice and Gobi 65",
+      "image": "https://i2.wp.com/wanderingchickpea.com/wp-content/uploads/2021/04/53D47E58-27C6-4F69-BBBA-C9165F0B60A6.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "22/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Chana Masala with Poratta",
+      "image": "https://img.freepik.com/premium-photo/chole-chana-masala-with-paratha-chickpea-spicy-curry-served-with-laccha-parantha_466689-403.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "23/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Kashmiri Pulao with Chicken Nabaavi",
+      "image": "https://foodfusion.com/wp-content/uploads/2019/06/Kashmiri-Chicken-Pulao-Recipe-by-food-fusion-5.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "23/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Murgh Makhani with Poratta",
+      "image": "https://www.harighotra.co.uk/images/recipes/hero/murgh-makhani-hero.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "23/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Pepper Masala",
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2",
+      "Added": "done"
+    },
+    {
+      "date": "23/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Mappas with Chappathi",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "23/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Masala Bhat",
+      "image": "https://mytastycurry.com/wp-content/uploads/2020/05/Masale-bhaat-recipe-photo-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "23/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Set Dosa with Sambar and Chutney",
+      "image": "https://www.archanaskitchen.com//images/archanaskitchen/Indian_Breakfast_Tiffins/Karanataka_Style_Set_Dosa_Recipe_Thick_Pancakes_Indian_Vegetarian_Archanas_Kitchen-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "24/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Muradabadi Dum Biryani with Raitha and Mirchi Salan",
+      "image": "https://ranveerbrar.com/wp-content/uploads/2024/04/muradabadi-biryani.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "24/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Roast with Chappathi",
+      "image": "https://cdn.dotpe.in/longtail/store-items/1008509/9sahfJBK.jpeg",
+      "Added": "done"
+    },
+    {
+      "date": "24/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "White Rice with Chicken Curry & Upperi",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    },
+    {
+      "date": "24/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Chukka with Poratta",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    },
+    {
+      "date": "24/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Veg Curry",
+      "image": "https://cakeworkorange.com/wp-content/uploads/2020/09/IP-kurma-scaled.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "24/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Dal Palak with Chappathi",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "25/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Jeera Rice with Chicken Roast",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
+    },
+    {
+      "date": "25/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kolhapuri with Chappathi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRsJE3-_ooblXyWbmaEAMpfeFcCvlLhOhXFbnZyaUTYCPeSHh_YMiLlNwKQLVeEgduZfsFGOVpwm2N2zfTsnDU91zzjEaMpJsKt_PolcqcspdmU5cOY4O_QgoOTkMPRauVpf8F/s1600/11.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "25/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken 65 Biryani",
+      "image": "https://images.unsplash.com/photo-1605478371398-cdba15e8f46e",
+      "Added": "done"
+    },
+    {
+      "date": "25/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
+    },
+    {
+      "date": "25/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Pulao with Dal Makhani",
+      "image": "https://cdn.uengage.io/uploads/28289/image-1CGHAM-1703875393.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "25/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Green Peas Masala with Chappathi",
+      "image": "https://www.sharmispassions.com/wp-content/uploads/2012/08/GreenPeasMasala22.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "26/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Hyderabadi Chicken Biryani",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "26/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Butter Chicken with Poratta",
+      "image": "https://foodess.com/wp-content/uploads/2023/10/Curry-Chicken.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "26/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Coimbatore Biryani",
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
+      "Added": "done"
+    },
+    {
+      "date": "26/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Naadan Chicken Curry with Poratta",
+      "image": "https://images.unsplash.com/photo-1610671199798-2ec07b6fc83f",
+      "Added": "done"
+    },
+    {
+      "date": "26/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Moru Curry, Upperi, and Gobi 65",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirNP-V4lCl30vIlyNvll8umSQPGatXSoR0KYDbCuWjYU-qxEcqyUY857rUQ7Aw6mNeytMx3ciZJypINEqtqigq7dbBHIlx7MsU1SrYdZbzXd4jnPsKVk583fFfAx6bhanFAu-d0MTuvjBXv/s1600/Moru+Kachiyathu_Palaharam+(7+of+7).jpg",
+      "Added": "done"
+    },
+    {
+      "date": "26/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Kadai Veg with Chappathi",
+      "image": "https://www.yummyoyummy.com/wp-content/uploads/2015/08/Kadai-vegetables12.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "27/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Steam Rice with Dal Palak and Chicken 65",
+      "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
+      "Added": "done"
+    },
+    {
+      "date": "27/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kadai with Poratta",
+      "image": "https://images.unsplash.com/photo-1608756021662-35b1f8220612",
+      "Added": "done"
+    },
+    {
+      "date": "27/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "White Rice with Beetroot Upperi, Rasam & Fish Kuzhambu",
+      "image": "https://images.unsplash.com/photo-1616161616952-7980ec3b3fd7",
+      "Added": "done"
+    },
+    {
+      "date": "27/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Dosha Sambar with Chutney",
+      "image": "https://t4.ftcdn.net/jpg/04/39/31/29d_439312939_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQ.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "27/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Green Peas Kurma",
+      "image": "https://www.cookwithkushi.com/wp-content/uploads/2021/09/ghee_rice_recipe_02.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "27/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Dosha Set with Sambar and Chutney",
+      "image": "https://t4.ftcdn.net/jpg/04/39/31/29/360_F_439312935_lxOEQSqasYc5GeyHKgYJXWCIFm8gmQUN.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "28/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Jeera Pulao with Chicken Korma",
+      "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
+      "Added": "done"
+    },
+    {
+      "date": "28/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Schezwan Noodles with Ketchup",
+      "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
+      "Added": "done"
+    },
+    {
+      "date": "28/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Meals with Moru Curry, Cabbage Upperi & Fish Fry",
+      "image": "https://images.unsplash.com/photo-1600375922770-6f7f8d423d",
+      "Added": "done"
+    },
+    {
+      "date": "28/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Varattarachathu with Poratta",
+      "image": "https://images.unsplash.com/photo-1617292824230-3b3c6b8e3b85",
+      "Added": "done"
+    },
+    {
+      "date": "28/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Rasam, Upperi, and Gobi Fry",
+      "image": "https://revi.b-cdn.net/wp-content/uploads/2016/06/tomato-rasam-vert5.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "28/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Gobi with Poratta",
+      "image": "https://rustictadka.com/wp-content/uploads/2025/02/02-aloo-gobi-paratha-1.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "29/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Curd Rice with Onion Pakoda and Pickle",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+      "Added": "done"
+    },
+    {
+      "date": "29/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Chicken Kaalimirchi with Chappathi",
+      "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
+      "Added": "done"
+    },
+    {
+      "date": "29/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Ghee Rice with Chicken Curry",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
+    },
+    {
+      "date": "29/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Mysore Masala Dosa",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/05/mysore-masala-dosa-1a.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "29/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Tomato Rice with Sambar",
+      "image": "https://bestrecipesofindia.com/wp-content/uploads/2024/04/IMG_0935.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "29/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Veg Stew with Chappathi",
+      "image": "https://bestrecipesofindia.com/wp-content/uploads/2024/04/IMG_0935.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "30/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Schezwan Chicken Fried Rice with Ketchup",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "Added": "done"
+    },
+    {
+      "date": "30/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Egg Butter Masala",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398",
+      "Added": "done"
+    },
+    {
+      "date": "30/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chicken Majboos",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "30/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "3pcs Chappathi with Chicken Istoo",
+      "image": "https://images.unsplash.com/photo-1617191518009-20d3b3d916d2",
+      "Added": "done"
+    },
+    {
+      "date": "30/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Garlic Fried Rice and Salad Veg",
+      "image": "https://cookingwithchefbryan.com/wp-content/uploads/2024/02/Fried-Rice-with-Stir-Fried-Veggies-in-a-Garlic-Sauce-scaled.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "30/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Dosha Sambar and Chutney",
+      "image": "https://www.archanaskitchen.com/images/archanaskitchenabah/0-Archanas-Kitchen-Recipes/2019/Id_Fresh_Masala_Dosa_Recipe_With_Sambar_and_Chutney_2.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "31/07/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Lakhnawi Chicken Biryani with Raitha and Salan",
+      "image": "https://images.unsplash.com/photo-1620110260409-7b72b6c88fc3",
+      "Added": "done"
+    },
+    {
+      "date": "31/07/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Mughlai Chicken with Chapathi",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "Added": "done"
+    },
+    {
+      "date": "31/07/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "White Rice with Sambar, Chana Thoran & Chicken Fry (2pcs)",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "31/07/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Chettinad Chicken with Poratta",
+      "image": "https://images.unsplash.com/photo-1635512980410-62e5e6b9e7a2",
+      "Added": "done"
+    },
+    {
+      "date": "31/07/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "Veg Biryani with Raita and Salan",
+      "image": "https://thumbs.dreamstime.com/b/indian-veg-biryani-pulav-vegetable-biriyani-3423369117",
+      "Added": "done"
+    },
+    {
+      "date": "31/07/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Plain Dosa with Sambar and Chutney",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/05/mysore-masala-dosa.jpg",
+      "Added": "done"
+    },
+    {
+      "date": "01/08/2025",
+      "plan": "North Indian",
+      "mealType": "Lunch",
+      "dish": "Mint Onion Pulao with Malai Chicken",
+      "image": "https://images.unsplash.com/photo-1613145993481-1c6b3c6e1d3a",
+      "Added": "done"
+    },
+    {
+      "date": "01/08/2025",
+      "plan": "North Indian",
+      "mealType": "Dinner",
+      "dish": "Bedmi Poori with Bhaji",
+      "image": "https://images.unsplash.com/photo-1605485098-b-b-b65487d5ce60c",
+      "Added": "done"
+    },
+    {
+      "date": "01/08/2025",
+      "plan": "South Indian",
+      "mealType": "Lunch",
+      "dish": "Chennai Dum Biryani",
+      "image": "https://images.unsplash.com/photo-1675016502749-b175dffb62a0",
+      "Added": "done"
+    },
+    {
+      "date": "01/08/2025",
+      "plan": "South Indian",
+      "mealType": "Dinner",
+      "dish": "Neelagiri Kurma with Chappathi",
+      "image": "https://images.unsplash.com/photo-1603030927302-c1f7aaf08300",
+      "Added": "done"
+    },
+    {
+      "date": "01/08/2025",
+      "plan": "Veg",
+      "mealType": "Lunch",
+      "dish": "White Rice with Dal and Chicken Fry (2pcs)",
+      "image": "https://images.unsplash.com/photo-1579656592043-2640f1b7b3c7",
+      "Added": "done"
+    },
+    {
+      "date": "01/08/2025",
+      "plan": "Veg",
+      "mealType": "Dinner",
+      "dish": "Aloo Palak with Poratta",
+      "image": "https://simpleindianmeals.com/wp-content/uploads/2023/02/277-Palak-Paratha-500x500.jpg",
+      "Added": "done"
+    }
+
+  ]
+}

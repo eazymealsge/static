@@ -1,0 +1,818 @@
+{
+  "categories": [
+    "Tea",
+    "Coffee",
+    "Snacks",
+    "Fruit Juices",
+    "Chicken Dishes",
+    "Dosas",
+    "Appam Combos",
+    "Puttu Combos",
+    "Bread & Others",
+    "Biryani",
+    "Fried Rice",
+    "Noodles",
+    "Porotta Combos"
+  ],
+  "menuItems": [
+    {
+      "name": "Abu's Special Karak",
+      "price": "1",
+      "description": "A bold, creamy blend with a hint of spice—Abu’s secret recipe to warm your soul and brighten your day.",
+      "image": "https://filodessertco.com/cdn/shop/files/KarakTea.jpg",
+      "category": "Tea",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Samavar",
+      "price": "1",
+      "description": "Traditional, aromatic, and brewed with love—sip on centuries of tea culture in a single cup.",
+      "image": "https://healthwire.pk/wp-content/uploads/2022/09/calories-in-a-cup-of-tea.jpg",
+      "category": "Tea",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Black Tea",
+      "price": "1",
+      "description": "Classic and timeless, this rich brew packs the perfect punch to kickstart your morning or unwind your afternoon.",
+      "image": "https://images.pexels.com/photos/1493080/pexels-photo-1493080.jpeg",
+      "category": "Tea",
+      "rating": "4.5",
+"adedd": "done"
+    },
+    {
+      "name": "Lime Tea",
+      "price": "1",
+      "description": "Zesty meets cozy! A refreshing citrus twist that’s equal parts tangy and soothing.",
+      "image": "https://www.flavorsofmumbai.com/wp-content/uploads/2015/04/Lemon-Iced-Tea-Recipe-20.jpg",
+      "category": "Tea",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Mint Tea",
+      "price": "1",
+      "description": "Cool, calming, and oh-so-fresh—like a breath of crisp morning air in every sip.",
+      "image": "https://assets.tmecosys.com/video/upload/t_web_rdp_recipe_584x480/videos/UK/Manifesto/Statements/Our_kitchens_are_a_window_to_the_world/r338888_Moroccan_Mint_Tea.jpg",
+      "category": "Tea",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Milk Tea",
+      "price": "1",
+      "description": "Smooth, sweet, and satisfyingly creamy—comfort in a cup that feels like a warm hug.",
+      "image": "https://www.greedygirlgourmet.com/wp-content/uploads/2023/01/cup-of-japanese-milk-tea-homemade.jpg",
+      "category": "Tea",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Green Tea",
+      "price": "1.5",
+      "description": "Light, earthy, and full of zen—your go-to for a gentle boost and a moment of calm clarity.",
+      "image": "https://images.pexels.com/photos/3123792/pexels-photo-3123792.jpeg",
+      "category": "Tea",
+      "rating": "4.5",
+"adedd": "done"
+    },
+    {
+      "name": "Black Coffee",
+      "price": "1.5",
+      "description": "Strong, bold, and unapologetic—pure energy in a cup for the true coffee lover.",
+      "image": "https://images.pexels.com/photos/131893/pexels-photo-131893.jpeg",
+      "category": "Coffee",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Milk Coffee",
+      "price": "2",
+      "description": "Smooth and mellow with a creamy touch—where richness meets comfort, sip by sip.",
+      "image": "https://images.pexels.com/photos/2089806/pexels-photo-2089806.jpeg",
+      "category": "Coffee",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Paripp Vada",
+      "price": "1",
+      "description": "Crispy, golden, and packed with lentil crunch—South Indian street magic in every bite.",
+      "image": "https://therecipe.website/wp-content/uploads/2021/08/Parippu-Vada-Fritters.jpg",
+      "category": "Snacks",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Mulak Bajji",
+      "price": "1.5",
+      "description": "Spicy, deep-fried chili goodness—dare to bite into the heat with a smile!",
+      "image": "https://mallucafe.online/wp-content/uploads/2022/01/stuffed-chilli-pakora-mirchi-pakoda-mirchi-vada-extremely-delicious-mouth-watering-snack-pakistani-indian-people_466689-72857.jpg",
+      "category": "Snacks",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Samoosa Chicken",
+      "price": "2",
+      "description": "Crisp on the outside, juicy chicken inside—a triangle of irresistible flavor.",
+      "image": "https://images.pexels.com/photos/14883758/pexels-photo-14883758.jpeg",
+      "category": "Snacks",
+      "rating": "4.9",
+"adedd": "done"
+    },
+    {
+      "name": "Cutlet Chicken",
+      "price": "2",
+      "description": "Golden crust, tender chicken, and a burst of spices—snack time just got serious.",
+      "image": "https://www.pepperdelight.com/wp-content/uploads/2020/12/pepper-delight-beef-cutlet-1-scaled.jpg",
+      "category": "Snacks",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Pazhampori",
+      "price": "2",
+      "description": "Sweet ripe banana wrapped in crispy glory—Kerala’s favorite comfort treat.",
+      "image": "https://as2.ftcdn.net/v2/jpg/03/58/52/69/1000_F_358526911_C9N0C5zcKjnImXmWHm9ZmulkFnVvVvuY.jpg",
+      "category": "Snacks",
+      "rating": "4.9",
+"adedd": "done"
+    },
+    {
+      "name": "Pakoda Normal",
+      "price": "2",
+      "description": "Crunchy, spiced, and totally addictive—your classic tea-time bestie.",
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2020/07/Onion-Pakoda-2-3.jpg",
+      "category": "Snacks",
+      "rating": "4.7",
+      "adedd": "done"
+    },
+    {
+      "name": "Mutta Bajji",
+      "price": "2",
+      "description": "Boiled egg hugged in spicy batter—crispy, savory, and oh-so-satisfying.",
+      "image": "https://i.ytimg.com/vi/EwLWOnwAr0g/maxresdefault.jpg",
+      "category": "Snacks",
+      "rating": "4.8",
+      "adedd": "done"
+    },
+    {
+      "name": "Normal Lime",
+      "price": "3",
+      "description": "Simple, zesty, and super refreshing—your classic thirst quencher.",
+      "image": "https://images.pexels.com/photos/4966100/pexels-photo-4966100.jpeg",
+      "category": "Fruit Juices",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Lemon Soda",
+      "price": "3",
+      "description": "Tangy lemon meets fizzy fun—bubbles that dance on your tongue!",
+      "image": "https://images.pexels.com/photos/5947087/pexels-photo-5947087.jpeg",
+      "category": "Fruit Juices",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Chilly Soda",
+      "price": "3",
+      "description": "Spicy, sparkly, and totally bold—soda with a wild side.",
+      "image": "https://rakskitchen.net/wp-content/uploads/2019/04/kanthari-soda-500x375.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.5",
+"adedd": "done"
+    
+    },
+    {
+      "name": "Mint Lime",
+      "price": "4",
+      "description": "Cool mint + fresh lime = the ultimate chill combo.",
+      "image": "https://www.simplyrecipes.com/thmb/i-isg1NjF2vuJi3f90HBsZZZWd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__06__mojito-vertical-a-1800-51e66b7f72bc49e2a82c5d2ef48b8825.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Ginger Lime",
+      "price": "4",
+      "description": "Zingy ginger and tangy lime—fiery, fresh, and fabulous.",
+      "image": "https://ymcacf.org/wp-content/uploads/2020/08/iStock-477314878-scaled.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Grape",
+      "price": "5",
+      "description": "Juicy, sweet, and grape-fully delicious—sip the purple goodness.",
+      "image": "https://www.fruitsmart.com/wp-content/uploads/ConcordGrapeJuiceBenefits-fb.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Pineapple",
+      "price": "5",
+      "description": "Tropical, tangy, and sunny—summer vibes in a glass.",
+      "image": "https://www.kuvingsusa.com/cdn/shop/articles/kuvings-blog-pineapple.png",
+      "category": "Fruit Juices",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Orange",
+      "price": "5",
+      "description": "Citrus burst in every sip—freshly squeezed happiness.",
+      "image": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/orange-juice-1296x728-feature.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Carrot",
+      "price": "5",
+      "description": "Sweet and earthy—healthy never tasted this good.",
+      "image": "https://healthytasteoflife.com/wp-content/uploads/2021/09/carrot-juice-recipe-blender-or-juicer-simple.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Watermelon",
+      "price": "5",
+      "description": "Juicy, light, and hydrating—like biting into a chilled watermelon slice.",
+      "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/watermelon_cooler_57906_16x9.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Strawberry",
+      "price": "5",
+      "description": "Sweet, fruity, and a little flirty—berry bliss in a cup.",
+      "image": "https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/1x1/1x1-strawberry-juice.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Pineapple Lime",
+      "price": "5",
+      "description": "Tangy twist on tropical—pineapple and lime in perfect harmony.",
+      "image": "https://codigo1530.com/wp-content/uploads/2023/12/pineapple-lime-margarita.webp",
+      "category": "Fruit Juices",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Grape Lime",
+      "price": "5",
+      "description": "Sweet meets sour in this zesty grape fusion.",
+      "image": "https://i1.wp.com/lmld.org/wp-content/uploads/2017/02/grape-lime-rickey-4.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Dates",
+      "price": "6",
+      "description": "Rich, smooth, and naturally sweet—pure energy in every sip.",
+      "image": "https://feelgoodfoodie.net/wp-content/uploads/2020/02/Date-Shake-4.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Special Banana",
+      "price": "6",
+      "description": "Thick, creamy, and packed with love—our banana shake with a secret twist.",
+      "image": "https://www.fourscoreliving.com/wp-content/uploads/2022/12/Banana-Juice-1.2.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.9",
+"adedd": "done"
+    },
+    {
+      "name": "Apple",
+      "price": "6",
+      "description": "Crisp and juicy—apple a day, the yummy way!",
+      "image": "https://img.freepik.com/free-photo/fresh-apple-juice-close-up-shot_53876-65292.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Pomegranate",
+      "price": "6",
+      "description": "Deep red, antioxidant-rich, and bursting with bold flavor.",
+      "image": "https://images.pexels.com/photos/8679384/pexels-photo-8679384.jpeg",
+      "category": "Fruit Juices",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Oreo",
+      "price": "6",
+      "description": "Cookies and cream turned dreamy—dessert disguised as a drink.",
+      "image": "https://images.pexels.com/photos/17321326/pexels-photo-17321326/free-photo-of-a-chocolate-milkshake-with-oreo-cookies-and-whipped-cream.jpeg",
+      "category": "Fruit Juices",
+      "rating": "4.9",
+"adedd": "done"
+    },
+    {
+      "name": "Avocado",
+      "price": "6",
+      "description": "Creamy, nutty, and luxuriously smooth—your healthy indulgence.",
+      "image": "https://ranveerbrar.com/wp-content/uploads/2021/02/Avacado-Smoothie-scaled-scaled.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Badam",
+      "price": "6",
+      "description": "Nutty, milky, and spiced just right—royal flavor in every drop.",
+      "image": "https://www.thespruceeats.com/thmb/aXBZePco3iakbaZyPC4LamgwVEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-badam-milk-with-cardamom-1957418-f94ebb8b20b9421ba4688cd7570d36e0.jpg",
+      "category": "Fruit Juices",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Chicken Manchurian",
+      "price": "5",
+      "description": "Saucy, spicy, and oh-so-savory—an Indo-Chinese favorite with serious flavor.",
+      "image": "https://sconceandscone.com/wp-content/uploads/2021/01/7a011517-735f-411f-963c-c42ba25c6c2a.jpeg",
+      "category": "Chicken Dishes",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Chicken Chilli",
+      "price": "5",
+      "description": "Crispy bites tossed in bold spice—hot, fiery, and totally addictive.",
+      "image": "https://priyafoods.com/cdn/shop/files/CHILLICHICKEN_2.jpg",
+      "category": "Chicken Dishes",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Chicken 65",
+      "price": "5",
+      "description": "Crisp, deep-fried, and full of masala madness—a South Indian legend.",
+      "image": "https://anjappar.ch/wp-content/uploads/2023/11/history-of-chicken-65.webp",
+      "category": "Chicken Dishes",
+      "rating": "4.9",
+"adedd": "done"
+    },
+    {
+      "name": "Garlic Chicken",
+      "price": "5",
+      "description": "Garlicky goodness in every bite—bold flavor that lingers deliciously.",
+      "image": "https://www.thetakeiteasychef.com/wp-content/uploads/2017/01/Garlic-Chicken-Thumbnail.jpg",
+      "category": "Chicken Dishes",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Ginger Chicken",
+      "price": "5",
+      "description": "Zesty ginger meets tender chicken—fresh, fragrant, and full of kick.",
+      "image": "https://redwoodkitchen.com/wp-content/uploads/2023/06/Vietnames-Ginger-Chicken-05.jpg",
+      "category": "Chicken Dishes",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Lemon Chicken",
+      "price": "5",
+      "description": "Tangy, light, and irresistibly tasty—lemon lovers, this one’s for you.",
+      "image": "https://www.gimmesomeoven.com/wp-content/uploads/2016/05/Baked-Lemon-Chicken-1-3.jpg",
+      "category": "Chicken Dishes",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Dragon Chicken",
+      "price": "5",
+      "description": "Sweet, spicy, and saucy with a crunch—this dragon bites back!",
+      "image": "https://www.marionskitchen.com/wp-content/uploads/2022/10/Dragon-Chicken-01-1-1200x1500.jpg",
+      "category": "Chicken Dishes",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Honey Chicken",
+      "price": "5",
+      "description": "Golden, glossy, and sweet with a twist—chicken dipped in honeyed heaven.",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2024/08/Honey-Garlic-Chicken-Fork.jpg",
+      "category": "Chicken Dishes",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Thattu Dosa",
+      "price": "4",
+      "description": "Thick, soft, and sizzling hot—authentic street-style delight straight from the griddle.",
+      "image": "https://www.keralafoodcourt.com/cdn/shop/files/hq720.jpg",
+      "category": "Dosas",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Onion Dosa",
+      "price": "5",
+      "description": "Crispy edges, caramelized onions, and a pop of spice—simple yet sensational.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEhql-zCQn71rzoLMCoQPAcWAn522q6CtpN_HnGY6C73_nxIGt3NvpjvrNaRaLpx4KSD2CZwGAmwP4HTPlbvMOGTGaVpDCWVUyKzWbsnMPeqS5s7Q5q1JW6jyCp9No5wj-DVJxFESwcmM/s1600/onion-uthappam.jpg",
+      "category": "Dosas",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Ghee Roast",
+      "price": "5",
+      "description": "Crisp, golden, and dripping with rich ghee—pure indulgence in every bite.",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/09/ghee-roast-dosa-recipe-2.jpg",
+      "category": "Dosas",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Chicken Dosa",
+      "price": "6",
+      "description": "Stuffed with spicy chicken magic—this dosa means business.",
+      "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sneha-archanaskitchen.com/Chicken_Keema_Dosa__.jpg",
+      "category": "Dosas",
+      "rating": "4.9",
+"adedd": "done"
+    },
+    {
+      "name": "Masala Dosa",
+      "price": "6",
+      "description": "A crispy classic with a spiced potato hug—South India’s proud staple.",
+      "image": "https://images.pexels.com/photos/12392915/pexels-photo-12392915.jpeg",
+      "category": "Dosas",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Paneer Dosa",
+      "price": "6",
+      "description": "Crispy outside, creamy paneer inside—vegetarian luxury, dosa-style.",
+      "image": "https://www.cookclickndevour.com/wp-content/uploads/2019/01/paneer-masala-dosa-recipe-1.jpg",
+      "category": "Dosas",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Beef Dosa",
+      "price": "7",
+      "description": "Bold, beefy, and power-packed—when dosa meets serious flavor.",
+      "image": "https://img.taste.com.au/zDpd1GzG/taste/2017/02/dosa-with-spicy-beef-and-eggplant-mince-119458-1.jpg",
+      "category": "Dosas",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Appam & Veg Stew",
+      "price": "7",
+      "description": "Soft appam with creamy veggie goodness—light, wholesome, and comforting.",
+      "image": "https://kurryleaves.squareworkstudios.com/wp-content/uploads/2014/02/kerala-stew-with-appam.jpg",
+      "category": "Appam Combos",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Appam & Chicken Stew",
+      "price": "8",
+      "description": "Fluffy appam meets tender chicken in a coconut milk dream—mild, mellow, magical.",
+      "image": "https://www.pepperdelight.com/wp-content/uploads/2017/04/pepper-delight-chicken-stew-2.jpg",
+      "category": "Appam Combos",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Appam & Chicken Curry",
+      "price": "8",
+      "description": "Scoop, dip, and savor—spicy chicken curry with pillowy appams.",
+      "image": "https://b.zmtcdn.com/data/dish_photos/1c6/f7d90355317b1629b076712a48c8c1c6.jpeg",
+      "category": "Appam Combos",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Appam & Chicken Roast",
+      "price": "8",
+      "description": "Spicy, slow-roasted chicken with soft appam—fiery flavor, soft bite.",
+      "image": "https://www.keralafoodcourt.com/cdn/shop/files/appamchicken.jpg",
+      "category": "Appam Combos",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Appam & Nadan Chicken Fry",
+      "price": "8",
+      "description": "Crispy, masala-coated chicken with fluffy appams—true Kerala street-style love.",
+      "image": "https://goldensecretrecipes.wordpress.com/wp-content/uploads/2014/03/img_2706-2.jpg",
+      "category": "Appam Combos",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Appam & Beef Curry",
+      "price": "9",
+      "description": "Rich, slow-cooked beef curry paired with appam—hearty and unforgettable.",
+      "image": "https://www.yummyoyummy.com/wp-content/uploads/2019/12/DSC_1277.jpg",
+      "category": "Appam Combos",
+      "rating": "4.9",
+"adedd": "done"
+    },
+    {
+      "name": "Appam & Beef Roast",
+      "price": "9",
+      "description": "Spicy beef roast meets delicate appam—flavor explosion guaranteed.",
+      "image": "https://i0.wp.com/www.pepperdelight.com/wp-content/uploads/2017/06/pepper-delight-beef-ularthiyathu-3.jpg",
+      "category": "Appam Combos",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Appam & Nadan Beef Fry",
+      "price": "9",
+      "description": "Crispy, peppery beef bites with fresh appam—local, bold, and utterly delicious.",
+      "image": "https://www.yummyoyummy.com/wp-content/uploads/2020/12/IMG_E3959-1-scaled.jpg",
+      "category": "Appam Combos",
+      "rating": "4.9",
+"adedd": "done"
+    },
+    {
+      "name": "Puttu & Chicken Curry",
+      "price": "8",
+      "description": "Steamed and spiced just right—soft puttu paired with rich chicken curry perfection.",
+      "image": "https://i.pinimg.com/736x/25/55/91/2555918d436c26b728522b6451861201.jpg",
+      "category": "Puttu Combos",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Puttu & Chicken Roast",
+      "price": "8",
+      "description": "Fluffy puttu meets fiery, slow-roasted chicken—a spicy Kerala classic.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBnkCUfFmjkVzMRcn8kFq9MLpKN5AvoRShvA&s",
+      "category": "Puttu Combos",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Puttu & Nadan Chicken Fry",
+      "price": "8",
+      "description": "Rustic, crispy chicken fry with hot puttu—pure homestyle comfort.",
+      "image": "https://i0.wp.com/www.sujiscooking.com/wp-content/uploads/2019/01/chicken-masala-fry.jpg",
+      "category": "Puttu Combos",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Puttu & Beef Curry",
+      "price": "9",
+      "description": "Juicy beef curry with soft, grainy puttu—deep flavor in every bite.",
+      "image": "https://i.pinimg.com/736x/1e/45/e1/1e45e15e01cab46e0b677f6d94429361.jpg",
+      "category": "Puttu Combos",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Puttu & Beef Roast",
+      "price": "9",
+      "description": "Bold, masala-loaded beef roast served with pillowy puttu—hearty and unforgettable.",
+      "image": "https://aftertherains.in/blog/wp-content/uploads/2022/06/1-YH6R0YB704mmAJraFUTLnA.jpeg",
+      "category": "Puttu Combos",
+      "rating": "4.9",
+"adedd": "done"
+    },
+    {
+      "name": "Puttu & Nadan Beef Fry",
+      "price": "9",
+      "description": "Peppery, crunchy beef fry with warm puttu—local flavor, unbeatable combo.",
+      "image": "https://as2.ftcdn.net/jpg/03/85/19/63/1000_F_385196371_TR5UfoatBqIwr0JxBBJeElAvOpWNzR2J.jpg",
+      "category": "Puttu Combos",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Bread & Veg Stew",
+      "price": "7",
+      "description": "Soft bread dunked in creamy vegetable stew—simple, soothing, and soul-warming.",
+      "image": "https://images.pexels.com/photos/15871637/pexels-photo-15871637/free-photo-of-closeup-of-a-dish-with-cooked-vegetables.jpeg",
+      "category": "Bread & Others",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Bread & Chicken Stew",
+      "price": "8",
+      "description": "Classic comfort with a twist—fluffy bread meets rich, coconut-infused chicken stew.",
+      "image": "https://cti.farziengineer.co/hosted/Bread_Chicken_Stew-0613cd4d66f2.png",
+      "category": "Bread & Others",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Pazhampori & Beef",
+      "price": "8",
+      "description": "Sweet banana fritters with spicy beef—Kerala’s most unexpected and beloved combo!",
+      "image": "https://villagecookingkerala.com/wp-content/uploads/2021/01/beef-pazham-pori-678x381.jpg",
+      "category": "Bread & Others",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Mini Chicken Dum Biryani",
+      "price": "3",
+      "description": "Small in size, big on flavor—fragrant rice and tender chicken, slow-cooked to perfection.",
+      "image": "https://blendofspicesbysara.com/wp-content/uploads/2020/01/00000IMG_00000_BURST20200223135439908_COVER-01.jpeg",
+      "category": "Biryani",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Half Chicken Dum Biryani",
+      "price": "5",
+      "description": "Half portion, full dum magic—layered rice, juicy chicken, and masala dreams.",
+      "image": "https://www.spiceandcolour.com/wp-content/uploads/2020/06/receta-presentacion-biryani-de-pollo-01-500x500.jpg",
+      "category": "Biryani",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Mini Beef Dum Biryani",
+      "price": "5",
+      "description": "Bold beef flavor packed into a mini biryani—spiced just right for every craving.",
+      "image": "https://maharajaroyaldining.com/wp-content/uploads/2024/04/Chicken-Dum-Biryani-2-600x600.webp",
+      "category": "Biryani",
+      "rating": "4.7",
+"adedd": "done"
+
+    },
+    {
+      "name": "Half Beef Dum Biryani",
+      "price": "7",
+      "description": "Hearty and rich—slow-cooked beef layered with spiced basmati, biryani done right.",
+      "image": "https://tikkaways.ca/wp-content/uploads/2024/02/Beef-BIRYANI-.png",
+      "category": "Biryani",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Mini Egg Fried Rice",
+      "price": "3",
+      "description": "Wok-tossed rice with fluffy egg—simple, savory, and totally satisfying.",
+      "image": "https://data.thefeedfeed.com/static/2020/04/16/15870736275e98d25b874a7.JPG",
+      "category": "Fried Rice",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Mini Vegetable Fried Rice",
+      "price": "3",
+      "description": "A colorful veggie mix with aromatic rice—light, fresh, and full of crunch.",
+      "image": "https://www.dinneratthezoo.com/wp-content/uploads/2016/10/veggie-fried-rice-6.jpg",
+      "category": "Fried Rice",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Mini Chicken Fried Rice",
+      "price": "4",
+      "description": "Tender chicken meets seasoned rice—classic comfort in a mini bowl.",
+      "image": "https://www.averiecooks.com/wp-content/uploads/2025/03/chickenfriedrice-9.jpg",
+      "category": "Fried Rice",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Mini Szechwan Chicken Fried Rice",
+      "price": "5",
+      "description": "Fiery, bold, and bursting with flavor—spicy Szechwan magic in every bite.",
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2009/06/Szechwan-Fried-Rice-500x375.jpg",
+      "category": "Fried Rice",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Mini Egg Noodles",
+      "price": "3",
+      "description": "Soft noodles tossed with egg and spice—simple, slurpy, and satisfying.",
+      "image": "https://www.sharmispassions.com/wp-content/uploads/2012/01/EggNoodles3-500x500.jpg",
+      "category": "Noodles",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Mini Vegetable Noodles",
+      "price": "3",
+      "description": "Crunchy veggies and springy noodles—colorful, tasty, and totally craveable.",
+      "image": "https://peasandcrayons.com/wp-content/uploads/2020/12/vegetable-stir-fry-noodles-recipe-.jpg",
+      "category": "Noodles",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Mini Chicken Noodles",
+      "price": "4",
+      "description": "Juicy chicken tangled in saucy noodles—your go-to comfort bowl.",
+      "image": "https://www.maggi.lk/sites/default/files/styles/home_stage_944_531/public/srh_recipes/7c979378d75d81812f8540563da0e74c.jpg",
+      "category": "Noodles",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Mini Szechwan Chicken Noodles",
+      "price": "5",
+      "description": "Spicy, saucy, and packed with punch—Szechwan-style heat in every forkful!",
+      "image": "https://www.marionskitchen.com/wp-content/uploads/2022/11/Sichuan-Chilli-Chicken-Noodles-04.jpg",
+      "category": "Noodles",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Porotta & Veg Stew",
+      "price": "8",
+      "description": "Flaky porotta with creamy veggie stew—soft, rich, and full of comfort.",
+      "image": "https://bestrecipesofindia.com/wp-content/uploads/2025/02/IMG_3281-scaled.jpg",
+      "category": "Porotta Combos",
+      "rating": "4.6",
+"adedd": "done"
+    },
+    {
+      "name": "Porotta & Chicken Stew",
+      "price": "9",
+      "description": "Mild coconut stew and tender chicken with buttery porottas—smooth, savory delight.",
+      "image": "https://www.cookeatlaugh.com/wp-content/uploads/2021/02/One-Pot-Kerala-Chicken-Stew-1-6.jpg",
+      "category": "Porotta Combos",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Porotta & Chicken Curry",
+      "price": "9",
+      "description": "Soft, layered porotta with spicy chicken curry—classic combo, unforgettable taste.",
+      "image": "https://maunikagowardhan.co.uk/wp-content/uploads/2017/08/Tamil-Black-Pepper-Chicken-Curry-700x467.jpg",
+      "category": "Porotta Combos",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Porotta & Chicken Roast",
+      "price": "9",
+      "description": "Bold, roasted chicken with golden porotta—spice-packed and satisfying.",
+      "image": "https://i0.wp.com/blendofspicesbysara.com/wp-content/uploads/2021/02/PXL_20210124_225907829.PORTRAIT-01.jpeg",
+      "category": "Porotta Combos",
+      "rating": "4.7",
+"adedd": "done"
+    },
+    {
+      "name": "Porotta & Nadan Chicken Fry",
+      "price": "9",
+      "description": "Crunchy, spicy chicken fry with flaky porotta—Kerala’s favorite duo.",
+      "image": "https://img.freepik.com/premium-photo/tandoori-chicken-with-parotta-rice-overhead-view-popular-food-kerala-malabar_1048944-4776545.jpg",
+      "category": "Porotta Combos",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Porotta & Beef Curry",
+      "price": "10",
+      "description": "Tender beef in rich gravy scooped up with soft porotta—pure indulgence.",
+      "image": "https://t3.ftcdn.net/jpg/01/25/27/80/360_F_125278071_4ZoPYg9l60aBag3ZSMxQRfcpyMsQLguG.jpg",
+      "category": "Porotta Combos",
+      "rating": "4.9",
+"adedd": "done"
+    },
+    {
+      "name": "Porotta & Beef Roast",
+      "price": "10",
+      "description": "Slow-roasted beef masala with porotta—deep flavor, deeper satisfaction.",
+      "image": "https://as1.ftcdn.net/jpg/02/22/16/14/1000_F_222161456_7cAQn0MyZwc866Yj8gLKjvghBeva4MP1.jpg",
+      "category": "Porotta Combos",
+      "rating": "4.8",
+"adedd": "done"
+    },
+    {
+      "name": "Porotta & Nadan Beef Fry",
+      "price": "10",
+      "description": "Peppery, crispy beef fry paired with porotta—bold, local, and legendary.",
+      "image": "https://pbs.twimg.com/media/E3I2WNNVEAAqod4.jpg",
+      "category": "Porotta Combos",
+      "rating": "4.9",
+"adedd": "done"
+    }
+  ],
+  "todaysSpecialCategories": [
+    "Tea",
+    "Snacks",
+    "Biryani"
+  ]
+}
